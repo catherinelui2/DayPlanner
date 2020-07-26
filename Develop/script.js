@@ -4,7 +4,7 @@ let savedToDos = JSON.parse(localStorage.getItem(savedToDoStorageKey)) || {};
 const timeSlotsContainer = $('#timeSlotsContainer');
 const beginningHour24 = 8;
 const endingHour24 = 5 + 12;
-const currentDateTime = moment().subtract(8, 'hour'); 
+const currentDateTime = moment(); 
 for (let slotHour24 = beginningHour24; slotHour24 <= endingHour24; slotHour24++) {
     let slotHour12;
     let slotMeridian; 

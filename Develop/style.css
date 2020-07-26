@@ -16,7 +16,7 @@ body {
 
 .futureHrTimeSlot * {
   background-color: indigo !important;
-  color: whitesmoke;
+  color: whitesmoke !important;
 }
 
 textarea {
