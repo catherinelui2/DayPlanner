@@ -10,4 +10,4 @@ Timeblocks color coded to indicate whether it is the past, present or future
 Click timeblock to edit or enter event
 Click save button on timeblock to local storage and keep content on timeblock
 
-[Work Day Scheduler Demo](./Develop/Work-Day-Scheduler.gif)
+![Work Day Scheduler Demo](https://catherinelui2.github.io/DayPlanner/Develop/Work%20Day%20Scheduler.gif)
